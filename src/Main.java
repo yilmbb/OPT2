@@ -55,6 +55,9 @@ public class Main {
 
             System.out.println("Salaris: " + werknemer.BerekenSalaris());
             System.out.println();
+            System.out.println("---------------------------------");
+            System.out.println();
+
         }
     }
 }
