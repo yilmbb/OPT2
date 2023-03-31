@@ -36,10 +36,6 @@ public class Main {
 
             // Maak de werknemer aan en voeg deze 2toe aan de lijst
             werknemers.add(new Uurloon(naam, achternaam, leeftijd, adres, telefoonnummer, uurloon, urenGewerkt) {
-                @Override
-                public double BerekenSalaris() {
-                    return 0;
-                }
             });
         }
 
