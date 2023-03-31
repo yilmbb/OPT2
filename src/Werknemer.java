@@ -1,4 +1,4 @@
-public abstract class Werknemer {
+public class Werknemer {
     private String naam;
     private String achternaam;
     private int leeftijd;

@@ -1,4 +1,4 @@
-public abstract class Uurloon extends Werknemer {
+public class Uurloon extends Werknemer {
     private double uurloon;
     private int gewerkteUren;
 
